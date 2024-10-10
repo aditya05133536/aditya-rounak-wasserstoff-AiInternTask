@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "6707f4f0899dcaea8e0e15a1"
+  },
+  "document_name": "short.pdf",
+  "path": "/Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test/short.pdf",
+  "size": 10705702,
+  "keywords": [
+    "pdf",
+    "test",
+    "file"
+  ],
+  "summary": "PDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG"
+},
+{
+  "_id": {
+    "$oid": "6707f4f0899dcaea8e0e15a2"
+  },
+  "document_name": "long.pdf",
+  "path": "/Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test/long.pdf",
+  "size": 42822485,
+  "keywords": [
+    "pdf",
+    "test",
+    "file"
+  ],
+  "summary": "PDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG"
+},
+{
+  "_id": {
+    "$oid": "6707f4f0899dcaea8e0e15a0"
+  },
+  "document_name": "medium.pdf",
+  "path": "/Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test/medium.pdf",
+  "size": 32116471,
+  "keywords": [
+    "pdf",
+    "test",
+    "file"
+  ],
+  "summary": "PDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG"
+},
+{
+  "_id": {
+    "$oid": "6707f716ba8fc4ead4fecda0"
+  },
+  "document_name": "long.pdf",
+  "path": "/Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test/long.pdf",
+  "size": 42822485,
+  "keywords": [
+    "pdf",
+    "test",
+    "file"
+  ],
+  "summary": "PDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG"
+},
+{
+  "_id": {
+    "$oid": "6707f716ba8fc4ead4fecd9f"
+  },
+  "document_name": "short.pdf",
+  "path": "/Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test/short.pdf",
+  "size": 10705702,
+  "keywords": [
+    "pdf",
+    "test",
+    "file"
+  ],
+  "summary": "PDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG"
+},
+{
+  "_id": {
+    "$oid": "6707f716ba8fc4ead4fecd9e"
+  },
+  "document_name": "medium.pdf",
+  "path": "/Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test/medium.pdf",
+  "size": 32116471,
+  "keywords": [
+    "pdf",
+    "test",
+    "file"
+  ],
+  "summary": "PDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG"
+},
+{
+  "_id": {
+    "$oid": "6707f7a1e074769eea68af39"
+  },
+  "document_name": "medium.pdf",
+  "path": "/Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test/medium.pdf",
+  "size": 32116471,
+  "keywords": [
+    "pdf",
+    "test",
+    "file"
+  ],
+  "summary": "PDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG"
+},
+{
+  "_id": {
+    "$oid": "6707f7a1e074769eea68af3a"
+  },
+  "document_name": "short.pdf",
+  "path": "/Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test/short.pdf",
+  "size": 10705702,
+  "keywords": [
+    "pdf",
+    "test",
+    "file"
+  ],
+  "summary": "PDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG"
+},
+{
+  "_id": {
+    "$oid": "6707f7a1e074769eea68af3b"
+  },
+  "document_name": "long.pdf",
+  "path": "/Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test/long.pdf",
+  "size": 42822485,
+  "keywords": [
+    "pdf",
+    "test",
+    "file"
+  ],
+  "summary": "PDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG\n\n\fPDF TEST FILE\n\nTESTFILE.ORG"
+}]

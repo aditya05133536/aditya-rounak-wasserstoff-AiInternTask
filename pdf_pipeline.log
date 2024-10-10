@@ -1,0 +1,45 @@
+2024-10-10 23:56:55,534 [INFO] Connected to MongoDB successfully.
+2024-10-10 23:56:55,540 [INFO] Found 0 PDF files in /path/to/your/pdf/folder.
+2024-10-10 23:56:55,540 [INFO] No PDF files to process.
+2024-10-11 00:00:13,077 [INFO] Connected to MongoDB successfully.
+2024-10-11 00:00:13,080 [INFO] Found 3 PDF files in /Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test.
+2024-10-11 00:00:13,136 [INFO] Inserted metadata for short.pdf with ID 67081d35344909e989e0d239.
+2024-10-11 00:00:13,168 [INFO] Inserted metadata for medium.pdf with ID 67081d35344909e989e0d238.
+2024-10-11 00:00:13,175 [INFO] Inserted metadata for long.pdf with ID 67081d35344909e989e0d23a.
+2024-10-11 00:00:13,193 [INFO] Extracted text from /Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test/short.pdf.
+2024-10-11 00:00:13,206 [INFO] Summary generated.
+2024-10-11 00:00:13,206 [INFO] Keywords extracted.
+2024-10-11 00:00:13,220 [INFO] Updated MongoDB document for short.pdf with summary and keywords.
+2024-10-11 00:00:13,222 [INFO] Processing completed for /Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test/short.pdf.
+2024-10-11 00:00:13,288 [INFO] Extracted text from /Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test/medium.pdf.
+2024-10-11 00:00:13,289 [INFO] Summary generated.
+2024-10-11 00:00:13,289 [INFO] Keywords extracted.
+2024-10-11 00:00:13,290 [INFO] Updated MongoDB document for medium.pdf with summary and keywords.
+2024-10-11 00:00:13,290 [INFO] Processing completed for /Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test/medium.pdf.
+2024-10-11 00:00:13,325 [INFO] Extracted text from /Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test/long.pdf.
+2024-10-11 00:00:13,326 [INFO] Summary generated.
+2024-10-11 00:00:13,326 [INFO] Keywords extracted.
+2024-10-11 00:00:13,327 [INFO] Updated MongoDB document for long.pdf with summary and keywords.
+2024-10-11 00:00:13,327 [INFO] Processing completed for /Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test/long.pdf.
+2024-10-11 00:00:13,327 [INFO] All PDF files have been processed.
+2024-10-11 00:02:41,320 [INFO] Connected to MongoDB successfully.
+2024-10-11 00:02:41,325 [INFO] Found 3 PDF files in /Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test.
+2024-10-11 00:02:41,344 [INFO] Inserted metadata for short.pdf with ID 67081dc9dfeb8f56c15cc626.
+2024-10-11 00:02:41,344 [INFO] Inserted metadata for medium.pdf with ID 67081dc9dfeb8f56c15cc625.
+2024-10-11 00:02:41,344 [INFO] Inserted metadata for long.pdf with ID 67081dc9dfeb8f56c15cc627.
+2024-10-11 00:02:41,413 [INFO] Extracted text from /Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test/short.pdf.
+2024-10-11 00:02:41,432 [INFO] Summary generated.
+2024-10-11 00:02:41,433 [INFO] Keywords extracted.
+2024-10-11 00:02:41,435 [INFO] Updated MongoDB document for short.pdf with summary and keywords.
+2024-10-11 00:02:41,437 [INFO] Processing completed for /Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test/short.pdf.
+2024-10-11 00:02:41,482 [INFO] Extracted text from /Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test/medium.pdf.
+2024-10-11 00:02:41,485 [INFO] Summary generated.
+2024-10-11 00:02:41,485 [INFO] Keywords extracted.
+2024-10-11 00:02:41,488 [INFO] Updated MongoDB document for medium.pdf with summary and keywords.
+2024-10-11 00:02:41,488 [INFO] Processing completed for /Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test/medium.pdf.
+2024-10-11 00:02:41,521 [INFO] Extracted text from /Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test/long.pdf.
+2024-10-11 00:02:41,522 [INFO] Summary generated.
+2024-10-11 00:02:41,522 [INFO] Keywords extracted.
+2024-10-11 00:02:41,523 [INFO] Updated MongoDB document for long.pdf with summary and keywords.
+2024-10-11 00:02:41,523 [INFO] Processing completed for /Users/adityarounak/Desktop/AI-Internship-Task-Pipeline/pythonproject1/AI-Internship-Task-Pipeline/test/long.pdf.
+2024-10-11 00:02:41,523 [INFO] All PDF files have been processed.
